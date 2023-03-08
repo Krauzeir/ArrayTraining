@@ -1,5 +1,4 @@
 const endpointDaAPI = 'https://guilhermeonrails.github.io/casadocodigo/livros.json'
-const elementoParaInserirLivros = document.querySelector('#livros')
 let livros = []
 getBuscarLivrosDaAPI()
 
